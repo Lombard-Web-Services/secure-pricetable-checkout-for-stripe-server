@@ -154,7 +154,6 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 ## Author
 
 **Thibaut LOMBARD**  
-- Website: [lombardweb.com](https://lombardweb.com)  
 - X: [x.com/lombardweb](https://x.com/lombardweb)  
 - GitHub: [github.com/Lombard-Web-Services](https://github.com/Lombard-Web-Services)
 
