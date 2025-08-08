@@ -159,7 +159,7 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial-
 
 ## Contributing
 
-This project is not open for contributions due to the CC BY-NC-ND license. For inquiries or custom solutions, contact [contact@lombardweb.com](mailto:contact@lombardweb.com).
+This project is not open for contributions due to the CC BY-NC-ND license. For inquiries or custom solutions, I can help.
 
 ---
 
