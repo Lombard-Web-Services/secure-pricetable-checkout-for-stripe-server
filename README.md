@@ -106,4 +106,3 @@ Open [http://localhost:4242](http://localhost:4242) and verify UI features and a
 
 ---
 
-**End of README**
