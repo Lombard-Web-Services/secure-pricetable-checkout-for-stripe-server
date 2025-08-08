@@ -19,7 +19,7 @@ Developed by **Thibaut Lombard**
 - **Webhook Support**: Handles Stripe webhook events for subscription management (e.g., creation, deletion).
 - **Database Integration**: Stores license keys and customer data in PostgreSQL with SQLAlchemy.
 - **Rate Limiting**: Prevents abuse with SlowAPI rate limiting (5 requests/minute for checkout, 10/minute for license checks).
-- **Logging**: Comprehensive logging to `logs/moult_ai_payment.log` for debugging and monitoring.
+- **Logging**: Comprehensive logging to `logs/test_ai_payment.log` for debugging and monitoring.
 - **Static File Serving**: Serves assets (CSS, JS, fonts, icons) from the `public` directory.
 
 *Add On: Consider regularly updating features to reflect new Stripe API capabilities and user feedback.*
@@ -65,7 +65,7 @@ Follow these steps to set up the project locally.
     - Copy `.env.example` to `.env` and update with your credentials.
 
 5. **Set Up PostgreSQL Database**
-    - Create database `moult_ai`.
+    - Create database `test_ai`.
 
 6. **Copy Static Assets**
     - Verify assets in `public/` folder.
