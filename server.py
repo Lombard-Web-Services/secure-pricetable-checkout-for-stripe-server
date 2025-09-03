@@ -31,7 +31,7 @@ if not os.path.exists(env_path):
 load_dotenv(dotenv_path=env_path)
 
 # Configuration
-stripe.api_key = os.getenv("STRIPE_API_KEY", "sk_test_51RqJoCAZLeR1HJAQvY85EEf20wJhR2jadoj4k2KLlRwMc31XiN7NSaPomrPRO0mVUir8akc82UqgYuMJREEonuWG007DrI4EqN")
+stripe.api_key = os.getenv("STRIPE_API_KEY", "sk_test_51RqJKwlqmmqpozippkoj4k2KLlRwMc31XiN7NSaPomrPRO0mVUir8akc82UqgYuMJREEonuWG007DrI4EqN")
 YOUR_DOMAIN = os.getenv("YOUR_DOMAIN", "http://localhost:4242")
 DATABASE_URL = os.getenv("DATABASE_URL", "postgresql://admin:password@localhost:5432/test_ai")
 WEBHOOK_SECRET = os.getenv("WEBHOOK_SECRET", "whsec_12345")
