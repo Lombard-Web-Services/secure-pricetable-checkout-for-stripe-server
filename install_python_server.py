@@ -328,7 +328,7 @@ def install():
     parser.add_argument("--no-logging", action="store_true", help="Disable logging to file")
     parser.add_argument("--localhost", action="store_true", help="Use localhost for certificates and domain")
     parser.add_argument("--domain", default="your-domain.com", help="Domain for HTTPS (default: your-domain.com)")
-    parser.add_argument("--stripe-key", default="sk_test_51RqJoCAZLeR1HJAQvY85EEf20wJhR2jadoj4k2KLlRwMc31XiN7NSaPomrPRO0mVUir8akc82UqgYuMJREEonuWG007DrI4EqN", help="Stripe API key")
+    parser.add_argument("--stripe-key", default="sk_test_51RqJoCAZLeR1HJAQvY85EEf20wJddddszddoj4k2KLlRwMc31XiN7NSaPomrPRO0mVUir8akc82UqgYuMJREEonuWG007DrI4EqN", help="Stripe API key")
     parser.add_argument("--webhook-secret", default="whsec_12345", help="Stripe webhook secret")
     global args
     args = parser.parse_args()
